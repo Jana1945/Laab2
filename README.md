@@ -9,6 +9,8 @@ This project uses the Amazon Sales Dataset . The dataset contains sales informat
    Proplem Explaination : The goal of this project is to to predict total revenue based on
    product categroy, price discount precentage , quantity sold ,customer regionand
    revenue. This is regression problem because the output is a continuous numeric value.
-# Part 3: Loading and Inspecting the Dataset in Python
-
+# Part 3: Loading and Inspecting the Dataset in Pytho
+There is uploaded Jupyter Notebook 
+# Part 4: Designing the Methodology Diagram
+There is uploaded PNG
    
