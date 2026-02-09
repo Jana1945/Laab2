@@ -12,5 +12,10 @@ This project uses the Amazon Sales Dataset . The dataset contains sales informat
 # Part 3: Loading and Inspecting the Dataset in Pytho
 There is uploaded Jupyter Notebook 
 # Part 4: Designing the Methodology Diagram
-There is uploaded PNG
+The methodology diagram shows the machine learning workflow used in this project.
+It starts with selecting the Amazon Sales dataset, loading the data using Python and Pandas,
+and preprocessing the dataset.
+Next, the data is split into training and testing sets. A regression model is trained,
+evaluated using the test data, and the results are analyzed.
+
    
